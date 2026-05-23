@@ -1,0 +1,74 @@
+aid: replika-ai
+name: Replika
+description: Replika is a consumer AI companion chatbot created by Luka, Inc., launched November 2017 and now serving 40+ million users. The product personalizes a neural network through user conversations and offers free "friend" plus paid "partner / spouse / sibling / mentor" relationship modes via iOS, Android, Oculus Rift, and a legacy web app at my.replika.com. There is no public developer API or partner program.
+image: https://replika.com/static/replika-logo.png
+tags:
+  - AI
+  - Chatbot
+  - Companion
+  - Consumer
+  - Mental Wellness
+  - Conversational AI
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.18'
+position: Consuming
+kind: contract
+access: 3rd-Party
+apis: []
+common:
+  - url: https://replika.com/
+    type: Website
+  - url: https://my.replika.com/
+    type: WebApp
+  - url: https://replika.onelink.me/m83y/web2app
+    type: Download
+  - url: https://help.replika.com/
+    type: Support
+  - url: https://help.replika.com/
+    type: HelpCenter
+  - url: https://replika.com/legal/terms-of-service
+    type: TermsOfService
+  - url: https://replika.com/legal/privacy
+    type: PrivacyPolicy
+  - url: https://careers.replika.com/
+    type: Careers
+  - url: https://luka.ai/
+    type: ParentCompany
+  - url: https://x.com/MyReplika
+    type: X (Twitter)
+  - url: https://www.instagram.com/myreplika/
+    type: Instagram
+  - url: https://www.facebook.com/groups/Replika.AI.Friends/
+    type: Facebook
+  - url: https://www.reddit.com/r/replika/
+    type: Reddit
+  - url: https://discord.com/invite/replika
+    type: Discord
+  - type: Features
+    data:
+      - AI companion chatbot with persistent personality and memory
+      - Customizable avatar, personality, and voice
+      - Voice calls with the Replika
+      - Selfies and image-sharing inside chat
+      - Augmented reality and VR (Oculus Rift) modes
+      - Tiered relationship modes - free friend, paid partner/spouse/sibling/mentor
+      - Freemium model (Replika Pro subscription)
+      - iOS, Android, and web (my.replika.com) availability
+      - 40+ million users worldwide (as of 2025)
+      - Founded by Eugenia Kuyda at Luka, Inc. (Nov 2017); Dmytro Klochko CEO from 2025
+    sources:
+      - https://replika.com/
+      - https://en.wikipedia.org/wiki/Replika
+    updated: '2026-05-23'
+  - type: Notes
+    data:
+      - Replika exposes no public REST/GraphQL API and runs no developer or partner program.
+      - All integration with users happens through the consumer apps and web client.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+  - FN: APIs.json
+    email: info@apis.io
+  - name: Luka, Inc. (Replika)
+    url: https://replika.com/
