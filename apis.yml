@@ -17,6 +17,8 @@ kind: contract
 access: 3rd-Party
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/replika-ai-domain-security.yml
   - url: https://replika.com/
     type: Website
   - url: https://my.replika.com/
