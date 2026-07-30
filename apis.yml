@@ -1,6 +1,17 @@
 aid: replika-ai
 name: Replika
 description: Replika is a consumer AI companion chatbot created by Luka, Inc., launched November 2017 and now serving 40+ million users. The product personalizes a neural network through user conversations and offers free "friend" plus paid "partner / spouse / sibling / mentor" relationship modes via iOS, Android, Oculus Rift, and a legacy web app at my.replika.com. There is no public developer API or partner program.
+accessModel:
+  pricing: unknown
+  onboarding: approval
+  trial: false
+  try_now: false
+  public: false
+  label: Requires approval
+  confidence: medium
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://replika.com/static/replika-logo.png
 tags:
   - AI
