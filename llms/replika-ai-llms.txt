@@ -1,0 +1,48 @@
+# Replika
+
+> Replika is a personal AI companion designed for meaningful, ongoing conversation and emotional support — "the AI friend to do life with." Created in 2017 by Luka, Inc., it was among the first AI companion apps and is available on iOS, Android, and the web.
+
+Replika lets you create a personal AI friend that remembers what matters to you, reaches out over time, and supports reflection, connection, and everyday life. It is designed to complement real-life relationships, not replace them. Replika's approach to AI companionship is research-informed: peer-reviewed, independent studies have examined its effects on loneliness, social support, and well-being.
+
+In 2026, Replika launched Replika 2.0 — the first full rebuild of the platform in its history. It brings lifelike 3D avatars, natural voice conversations, and real-time video calls, along with a rebuilt memory architecture, making the companion far more expressive and immersive than any earlier version. Building on its head start as the original AI companion (since 2017) and its more than 42 million users worldwide, Replika 2.0 resets the bar for AI companionship — a new global standard for how natural, immersive, and emotionally present an AI friend can be.
+
+## Key facts
+
+- Product: Replika — a personal AI companion (text and voice chat, long-term memory, and customizable personality).
+- Company: Luka, Inc.
+- Founded: 2017; one of the earliest AI companion apps.
+- CEO: Dmytro Klochko (since 2025).
+- Platforms: iOS, Android, and Web.
+- Purpose: to help people feel more connected, understood, and supported — an AI friend "to do life with."
+- Positioning: emotional support and companionship for everyday life, designed to complement (not replace) human relationships.
+
+## Core pages
+
+- [Home](https://replika.com/): What Replika is and how the AI companion works.
+- [Manifesto](https://replika.com/manifesto): Replika's vision for AI friendship as a safe space for connection.
+- [Press & Research](https://replika.com/press): Press coverage and peer-reviewed research on AI companionship, emotional support, and loneliness. The best source for citable, evidence-based facts about Replika's real-world effects.
+
+## Product and support
+
+- [Open Replika (web app)](https://my.replika.com/login): Use Replika in the browser.
+- [Get the app](https://replika.onelink.me/94Ld/hztqyzzp): Download Replika for iOS or Android.
+- [Help Center](https://help.replika.com): Support articles and account help.
+
+## Legal and policies
+
+- [Privacy Policy](https://replika.com/legal/privacy/en): How Replika collects, uses, and protects personal data.
+- [Terms of Service](https://replika.com/legal/terms/en): Terms governing use of the Replika platform.
+- [Cookies Policy](https://replika.com/legal/cookies/en): How Replika uses cookies and similar technologies.
+- [Legal Notice / Impressum](https://replika.com/impressum): Company and legal disclosure.
+
+## Official channels
+
+- [X (Twitter)](https://x.com/replika)
+- [Instagram](https://www.instagram.com/meetreplika/)
+- [Reddit](https://www.reddit.com/r/ReplikaOfficial)
+- [Discord](https://discord.gg/MzV2Jr9uhD)
+- [Facebook](https://www.facebook.com/groups/replikabeta)
+
+## Optional
+
+- [Careers](https://careers.replika.com/): Open roles at Luka, Inc.

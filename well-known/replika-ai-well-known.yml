@@ -1,0 +1,18 @@
+generated: '2026-07-20'
+method: searched
+source: https://replika.com/.well-known/
+host: https://replika.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+notes: >-
+  Replika (Luka, Inc.) publishes no /.well-known/ discovery surface. It does serve
+  a real /llms.txt (200, text/plain) captured verbatim at llms/replika-llms.txt.
