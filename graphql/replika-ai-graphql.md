@@ -1,1 +1,0 @@
-# Replika GraphQL API
