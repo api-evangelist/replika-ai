@@ -43,13 +43,15 @@ tags_raw:
 - Mental Wellness
 - Conversational AI
 created: '2026-05-23'
-modified: '2026-08-08'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 position: Consuming
 kind: contract
 access: 3rd-Party
 apis: []
 common:
+- url: https://replika.com/press
+  type: Blog
 - type: DomainSecurity
   url: security/replika-ai-domain-security.yml
 - url: https://replika.com/
